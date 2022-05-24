@@ -1,3 +1,10 @@
 body {
-    background-color: #db7ba8;
+    background-color: #db7ba8bb;
+}
+header{
+    position: relative;
+    height: 150px;
+    margin: 0px 0px;
+    padding: 70 px 0 0 0;
+    
 }
